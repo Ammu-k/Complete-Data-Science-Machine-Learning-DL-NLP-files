@@ -1,4 +1,4 @@
-from Package.maths import *
+from Package.maths import addition, subtraction
 from Package.Subpackages.mult import multiply
 
 print(addition(10,5))
